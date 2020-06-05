@@ -3,7 +3,7 @@
 The project that I am observing is called Mapping America’s Future and can be located at: http://apps.urban.org/features/mapping-americas-futures/#map
 
 I have included a screenshot of the digital geography project here:
-img src="https://i.ibb.co/Ptz6qXz/Screen-Shot-2020-06-05-at-3-48-49-PM.png" alt="Screen-Shot-2020-06-05-at-3-48-49-PM" border="0"></a>
+<img src ="https://i.ibb.co/Ptz6qXz/Screen-Shot-2020-06-05-at-3-48-49-PM.png" alt="Screen-Shot-2020-06-05-at-3-48-49-PM" border="0"></a>
 
 Introduction:
 This is an interactive map where you can change the rates for birth, death and migration to test how America’s population will change between 2020 to 2030. The map also lets you select filters for age, race and boundary with different options. The targeted audience is the general public as anyone with access to internet can find this webpage. However, this information is useful to many different people such as doctors, business owners, and many more that could use this information in a variety of ways. The authors of this map include 8 people whose names include Rolf PendallNan Marie Astone, Steven Martin, H. Elizabeth Peters, Austin Nichols, Kaitlin Franks Hildner, Allison Stolte, Pam Blumenthal Adrienne Hapanowicz and Tim Meko who are all a part of a research team at Urban Institute.  The Urban Institute is a school based in Washington D.C. and was founded in 1968. The Urban Institute received funding in several different ways including the government contracts, private donors and foundations.
